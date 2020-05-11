@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 34ae614aeb45b754a9eceb3109f2f741
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6147217842938573957
+    second: Character Lower Waist_0
+  - first:
+      213: -8916109221477532956
+    second: Character Lower Waist_1
+  - first:
+      213: -3349272344504786247
+    second: Character Lower Waist_2
+  - first:
+      213: -8298809174750539843
+    second: Character Lower Waist_3
+  - first:
+      213: 4820337070376790201
+    second: Character Lower Waist_4
+  - first:
+      213: -8091207653415892589
+    second: Character Lower Waist_5
+  - first:
+      213: -6575801882501177896
+    second: Character Lower Waist_6
+  - first:
+      213: 8590468755606311326
+    second: Character Lower Waist_7
+  - first:
+      213: 6443551944140346994
+    second: Character Lower Waist_8
+  - first:
+      213: -3145952186508044812
+    second: Character Lower Waist_9
+  - first:
+      213: -2825056953449207375
+    second: Character Lower Waist_10
+  - first:
+      213: -573692138496945315
+    second: Character Lower Waist_11
+  - first:
+      213: -7683005660327908736
+    second: Character Lower Waist_12
+  - first:
+      213: -4240907166914223168
+    second: Character Lower Waist_13
+  - first:
+      213: 4434484132434461894
+    second: Character Lower Waist_14
+  - first:
+      213: -3697744151282801524
+    second: Character Lower Waist_15
+  - first:
+      213: 4455560869155166961
+    second: Character Lower Waist_16
+  - first:
+      213: -8487444176102368347
+    second: Character Lower Waist_17
+  - first:
+      213: -8435448458113621962
+    second: Character Lower Waist_18
+  - first:
+      213: 4503832976822323734
+    second: Character Lower Waist_19
+  - first:
+      213: -2419174047248128879
+    second: Character Lower Waist_20
+  - first:
+      213: -2828331285251638219
+    second: Character Lower Waist_21
+  - first:
+      213: 7393768906216947223
+    second: Character Lower Waist_22
+  - first:
+      213: 2213316958074574386
+    second: Character Lower Waist_23
+  - first:
+      213: -8853825280029791478
+    second: Character Lower Waist_24
+  - first:
+      213: 3433757828130518689
+    second: Character Lower Waist_25
+  - first:
+      213: 9159480614815363190
+    second: Character Lower Waist_26
+  - first:
+      213: 8199211505424666748
+    second: Character Lower Waist_27
+  - first:
+      213: 3687622093169221458
+    second: Character Lower Waist_28
+  - first:
+      213: -5207133381165010870
+    second: Character Lower Waist_29
+  - first:
+      213: -4897579893281642997
+    second: Character Lower Waist_30
+  - first:
+      213: 201700814774534510
+    second: Character Lower Waist_31
+  - first:
+      213: -6293732958676651289
+    second: Character Lower Waist_32
+  - first:
+      213: -7467076953199196895
+    second: Character Lower Waist_33
+  - first:
+      213: -5218212504551965708
+    second: Character Lower Waist_34
+  - first:
+      213: -6780088968198521539
+    second: Character Lower Waist_35
+  - first:
+      213: -5218374447344206657
+    second: Character Lower Waist_36
+  - first:
+      213: 6262294876962393348
+    second: Character Lower Waist_37
+  - first:
+      213: -2536985642159383951
+    second: Character Lower Waist_38
+  - first:
+      213: -608629143211225642
+    second: Character Lower Waist_39
+  - first:
+      213: -6939856723855532434
+    second: Character Lower Waist_40
+  - first:
+      213: -1896723008620793445
+    second: Character Lower Waist_41
+  - first:
+      213: -144276874436774022
+    second: Character Lower Waist_42
+  - first:
+      213: -7350790576881780068
+    second: Character Lower Waist_43
+  - first:
+      213: 6545127136668757519
+    second: Character Lower Waist_44
+  - first:
+      213: 7249096653462443135
+    second: Character Lower Waist_45
+  - first:
+      213: -8425107693332835125
+    second: Character Lower Waist_46
+  - first:
+      213: 7335422594330807092
+    second: Character Lower Waist_47
+  - first:
+      213: 524576108731138012
+    second: Character Lower Waist_48
+  - first:
+      213: 6414748945461372785
+    second: Character Lower Waist_49
+  - first:
+      213: 7410334127442684462
+    second: Character Lower Waist_50
+  - first:
+      213: 8338072245139108586
+    second: Character Lower Waist_51
+  - first:
+      213: 4780944823781273123
+    second: Character Lower Waist_52
+  - first:
+      213: -2578884431752061159
+    second: Character Lower Waist_53
+  - first:
+      213: -6912080518067011554
+    second: Character Lower Waist_54
+  - first:
+      213: 6110543329218931525
+    second: Character Lower Waist_55
+  - first:
+      213: 4043760760032291954
+    second: Character Lower Waist_56
+  - first:
+      213: 8409663623624207662
+    second: Character Lower Waist_57
+  - first:
+      213: 3814407908579578306
+    second: Character Lower Waist_58
+  - first:
+      213: 1668088083732175603
+    second: Character Lower Waist_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Lower Waist_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 532
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584fb4d0f0e4f4550800000000000000
+      internalID: 6147217842938573957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 532
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3f3317ed934480800000000000000
+      internalID: -8916109221477532956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 532
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a0c14c8ef481d0800000000000000
+      internalID: -3349272344504786247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 532
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfcd384605b4dc80800000000000000
+      internalID: -8298809174750539843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 532
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a479b60745e240800000000000000
+      internalID: 4820337070376790201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 532
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399493e128146bf80800000000000000
+      internalID: -8091207653415892589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1c28270f0eb4a0800000000000000
+      internalID: -6575801882501177896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919108a1d9773770800000000000000
+      internalID: 8590468755606311326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27653429a581c6950800000000000000
+      internalID: 6443551944140346994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f513d287255754d0800000000000000
+      internalID: -3145952186508044812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a96b2ba16bc8d0800000000000000
+      internalID: -2825056953449207375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 468
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5394722a06d908f0800000000000000
+      internalID: -573692138496945315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae6d8ee0b706590800000000000000
+      internalID: -7683005660327908736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36ba6a6654525c0800000000000000
+      internalID: -4240907166914223168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ccd3d2d37a8d30800000000000000
+      internalID: 4434484132434461894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a2803949feacc0800000000000000
+      internalID: -3697744151282801524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fadf11010555dd30800000000000000
+      internalID: 4455560869155166961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 404
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd5708d7a863a80800000000000000
+      internalID: -8487444176102368347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630650df1544fea80800000000000000
+      internalID: -8435448458113621962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4f27ea34d08e30800000000000000
+      internalID: 4503832976822323734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 340
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946ee7750e5d6ed0800000000000000
+      internalID: -2419174047248128879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 340
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb3736eafbfb8d0800000000000000
+      internalID: -2828331285251638219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb36675a1fb9660800000000000000
+      internalID: 7393768906216947223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2361265fb0847be10800000000000000
+      internalID: 2213316958074574386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b637041d4e02580800000000000000
+      internalID: -8853825280029791478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 340
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6bf664d8827af20800000000000000
+      internalID: 3433757828130518689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670752517130d1f70800000000000000
+      internalID: 9159480614815363190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7012234c6379c170800000000000000
+      internalID: 8199211505424666748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fdb3181c01d2330800000000000000
+      internalID: 3687622093169221458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b49547cb8cb7b0800000000000000
+      internalID: -5207133381165010870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b062ad9190d480cb0800000000000000
+      internalID: -4897579893281642997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610b8782d59cc200800000000000000
+      internalID: 201700814774534510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f8ee383b28a8a0800000000000000
+      internalID: -6293732958676651289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 276
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254e06c21d9f5890800000000000000
+      internalID: -7467076953199196895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbda7df5f2597b0800000000000000
+      internalID: -5218212504551965708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d7bf0810948e1a0800000000000000
+      internalID: -6780088968198521539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_36
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 212
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb219961c9497b0800000000000000
+      internalID: -5218374447344206657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d8714f20428e650800000000000000
+      internalID: 6262294876962393348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad2defff0daccd0800000000000000
+      internalID: -2536985642159383951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc1f6d407bd87f0800000000000000
+      internalID: -608629143211225642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e1c7e141da0bf90800000000000000
+      internalID: -6939856723855532434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 212
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f8d1197c7da5e0800000000000000
+      internalID: -1896723008620793445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7774e572fc6ffdf0800000000000000
+      internalID: -144276874436774022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 148
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a3cae9aeebcf990800000000000000
+      internalID: -7350790576881780068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_44
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 148
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e29e60476f4da50800000000000000
+      internalID: 6545127136668757519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f741a1cbff6f99460800000000000000
+      internalID: 7249096653462443135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 148
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45c78e031041b80800000000000000
+      internalID: -8425107693332835125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 148
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b467c1cf7acc560800000000000000
+      internalID: 7335422594330807092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf739a013ba74700800000000000000
+      internalID: 524576108731138012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776989dd24c50950800000000000000
+      internalID: 6414748945461372785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 84
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aec2590abc6d660800000000000000
+      internalID: 7410334127442684462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 84
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27f0ba788c6b370800000000000000
+      internalID: 8338072245139108586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea9389cf3595240800000000000000
+      internalID: 4780944823781273123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 84
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f12a8d546f53cd0800000000000000
+      internalID: -2578884431752061159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10c7bdf36b5310a0800000000000000
+      internalID: -6912080518067011554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2aba68c20dc450800000000000000
+      internalID: 6110543329218931525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c636a8cf25e1830800000000000000
+      internalID: 4043760760032291954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d25a6628025b470800000000000000
+      internalID: 8409663623624207662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1935388cf7fe430800000000000000
+      internalID: 3814407908579578306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Lower Waist_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1be4364d362710800000000000000
+      internalID: 1668088083732175603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

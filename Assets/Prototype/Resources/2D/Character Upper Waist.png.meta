@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 527b2a76eb7617849b10d2762b99ece9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6051452952109311421
+    second: Character Upper Waist_0
+  - first:
+      213: 5060318586391324011
+    second: Character Upper Waist_1
+  - first:
+      213: 3666894471944595861
+    second: Character Upper Waist_2
+  - first:
+      213: -6624868953134852120
+    second: Character Upper Waist_3
+  - first:
+      213: 5578648915957735619
+    second: Character Upper Waist_4
+  - first:
+      213: -8471381891571211045
+    second: Character Upper Waist_5
+  - first:
+      213: 3283967717644608388
+    second: Character Upper Waist_6
+  - first:
+      213: -1163278171948022257
+    second: Character Upper Waist_7
+  - first:
+      213: 1475568739578500308
+    second: Character Upper Waist_8
+  - first:
+      213: -6398726400629875505
+    second: Character Upper Waist_9
+  - first:
+      213: 2238127087616703179
+    second: Character Upper Waist_10
+  - first:
+      213: 5513900123347029963
+    second: Character Upper Waist_11
+  - first:
+      213: 4751312033079408309
+    second: Character Upper Waist_12
+  - first:
+      213: -9143682498668269215
+    second: Character Upper Waist_13
+  - first:
+      213: 7075005915885954838
+    second: Character Upper Waist_14
+  - first:
+      213: -3334664521114404925
+    second: Character Upper Waist_15
+  - first:
+      213: -6356487542264075025
+    second: Character Upper Waist_16
+  - first:
+      213: 5419688014365066631
+    second: Character Upper Waist_17
+  - first:
+      213: 7325157248221869329
+    second: Character Upper Waist_18
+  - first:
+      213: -5696025219215109686
+    second: Character Upper Waist_19
+  - first:
+      213: -5216076256404359728
+    second: Character Upper Waist_20
+  - first:
+      213: -2150579363588094313
+    second: Character Upper Waist_21
+  - first:
+      213: 2991524220536876747
+    second: Character Upper Waist_22
+  - first:
+      213: 6749788083133050317
+    second: Character Upper Waist_23
+  - first:
+      213: 3711101036889603104
+    second: Character Upper Waist_24
+  - first:
+      213: 18035316640118984
+    second: Character Upper Waist_25
+  - first:
+      213: 6856824039263637287
+    second: Character Upper Waist_26
+  - first:
+      213: 7809106524035522134
+    second: Character Upper Waist_27
+  - first:
+      213: -83144217859294319
+    second: Character Upper Waist_28
+  - first:
+      213: -2066242882147223372
+    second: Character Upper Waist_29
+  - first:
+      213: -7712851333746916950
+    second: Character Upper Waist_30
+  - first:
+      213: -1366326168388402399
+    second: Character Upper Waist_31
+  - first:
+      213: -6010972476276032113
+    second: Character Upper Waist_32
+  - first:
+      213: 3852679677778146085
+    second: Character Upper Waist_33
+  - first:
+      213: -5389065651175868253
+    second: Character Upper Waist_34
+  - first:
+      213: 3183599316590026334
+    second: Character Upper Waist_35
+  - first:
+      213: 8120675031138878188
+    second: Character Upper Waist_36
+  - first:
+      213: 3040288291241988271
+    second: Character Upper Waist_37
+  - first:
+      213: -7569660344220654293
+    second: Character Upper Waist_38
+  - first:
+      213: 6125665051455198631
+    second: Character Upper Waist_39
+  - first:
+      213: -3436639173263979784
+    second: Character Upper Waist_40
+  - first:
+      213: 5675579640231821840
+    second: Character Upper Waist_41
+  - first:
+      213: 5235346886578557433
+    second: Character Upper Waist_42
+  - first:
+      213: 8178257978023411115
+    second: Character Upper Waist_43
+  - first:
+      213: 652732143068853875
+    second: Character Upper Waist_44
+  - first:
+      213: 18597994310777572
+    second: Character Upper Waist_45
+  - first:
+      213: 4894557250815243248
+    second: Character Upper Waist_46
+  - first:
+      213: -7328672019908821336
+    second: Character Upper Waist_47
+  - first:
+      213: 7435278308948126910
+    second: Character Upper Waist_48
+  - first:
+      213: 1449576010781233661
+    second: Character Upper Waist_49
+  - first:
+      213: -5376633458771952256
+    second: Character Upper Waist_50
+  - first:
+      213: -6490746818470382280
+    second: Character Upper Waist_51
+  - first:
+      213: -4281703041834014223
+    second: Character Upper Waist_52
+  - first:
+      213: 3120690682571926212
+    second: Character Upper Waist_53
+  - first:
+      213: -7566467429365948923
+    second: Character Upper Waist_54
+  - first:
+      213: -3307654163175444229
+    second: Character Upper Waist_55
+  - first:
+      213: -4471636702344144629
+    second: Character Upper Waist_56
+  - first:
+      213: -3177753013017371754
+    second: Character Upper Waist_57
+  - first:
+      213: 7686179897812654989
+    second: Character Upper Waist_58
+  - first:
+      213: -7667470437941975930
+    second: Character Upper Waist_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Upper Waist_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 537
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e671e5641bf350800000000000000
+      internalID: 6051452952109311421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 537
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65692091fcd93640800000000000000
+      internalID: 5060318586391324011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 538
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e91d181d63e230800000000000000
+      internalID: 3666894471944595861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 538
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e712e489ccbf04a0800000000000000
+      internalID: -6624868953134852120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 538
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06742d1a75b6d40800000000000000
+      internalID: 5578648915957735619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 537
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a83c8d0b9f6a80800000000000000
+      internalID: -8471381891571211045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 471
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ae007d3ff29d20800000000000000
+      internalID: 3283967717644608388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 471
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06821a7aa43bdfe0800000000000000
+      internalID: -1163278171948022257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 472
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45f3463f54a7410800000000000000
+      internalID: 1475568739578500308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 472
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccda839d382337a0800000000000000
+      internalID: -6398726400629875505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 472
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcab2936abc6f0f10800000000000000
+      internalID: 2238127087616703179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 471
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0513c2fe458c40800000000000000
+      internalID: 5513900123347029963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6bcbcde1d00f140800000000000000
+      internalID: 4751312033079408309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fbe7763d1b1180800000000000000
+      internalID: -9143682498668269215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176b2045687f2260800000000000000
+      internalID: 7075005915885954838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b0ed2944e8b1d0800000000000000
+      internalID: -3334664521114404925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6728224839c7a0800000000000000
+      internalID: -6356487542264075025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 410
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7850ca9c889963b40800000000000000
+      internalID: 5419688014365066631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157428f4bf28a560800000000000000
+      internalID: 7325157248221869329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac15401fd37a3f0b0800000000000000
+      internalID: -5696025219215109686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 340
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53bafd746cc97b0800000000000000
+      internalID: -5216076256404359728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 345
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796cb0c867b9722e0800000000000000
+      internalID: -2150579363588094313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 344
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee316cd67048920800000000000000
+      internalID: 2991524220536876747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6f4cef701cad50800000000000000
+      internalID: 6749788083133050317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c73651bba708330800000000000000
+      internalID: 3711101036889603104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8feb16603104000800000000000000
+      internalID: 18035316640118984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0bab7225582f50800000000000000
+      internalID: 6856824039263637287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 271
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e925a52058f5c60800000000000000
+      internalID: 7809106524035522134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7e5d36cc98def0800000000000000
+      internalID: -83144217859294319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 274
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b87fedcb0b3353e0800000000000000
+      internalID: -2066242882147223372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10e9e839276f490800000000000000
+      internalID: -7712851333746916950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 279
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12383e5c695d90de0800000000000000
+      internalID: -1366326168388402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_32
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbaec516cb49ca0800000000000000
+      internalID: -6010972476276032113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 279
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523355b21c7777530800000000000000
+      internalID: 3852679677778146085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8376eb7513635b0800000000000000
+      internalID: -5389065651175868253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 218
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e568406ba6e2c20800000000000000
+      internalID: 3183599316590026334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 218
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ca676aee62b070800000000000000
+      internalID: 8120675031138878188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0124eb716413a20800000000000000
+      internalID: 3040288291241988271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 218
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ed50d50a23f690800000000000000
+      internalID: -7569660344220654293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5130db8ebb20550800000000000000
+      internalID: 6125665051455198631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 218
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa886841ea9e40d0800000000000000
+      internalID: -3436639173263979784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012057ebc95b3ce40800000000000000
+      internalID: 5675579640231821840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 153
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1567a5140b7a840800000000000000
+      internalID: 5235346886578557433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 153
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf69dfc420f7170800000000000000
+      internalID: 8178257978023411115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37639110d68fe0900800000000000000
+      internalID: 652732143068853875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 153
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabd6cf6c2124000800000000000000
+      internalID: 18597994310777572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 153
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b7ab13e5fce340800000000000000
+      internalID: 4894557250815243248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 152
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7df970a35b4a90800000000000000
+      internalID: -7328672019908821336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 88
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc250b6a3a6f2760800000000000000
+      internalID: 7435278308948126910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11b8d93bded1410800000000000000
+      internalID: 1449576010781233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 86
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfa6a1b5c5265b0800000000000000
+      internalID: -5376633458771952256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357316782c3ce5a0800000000000000
+      internalID: -6490746818470382280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 87
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f926c5d4c55494c0800000000000000
+      internalID: -4281703041834014223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 86
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca229444abee4b20800000000000000
+      internalID: 3120690682571926212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e541c36f18ef690800000000000000
+      internalID: -7566467429365948923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f514301ad812d0800000000000000
+      internalID: -3307654163175444229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b099d286c1e81f1c0800000000000000
+      internalID: -4471636702344144629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1c2b987a56e3d0800000000000000
+      internalID: -3177753013017371754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1fd8d4ebcaaa60800000000000000
+      internalID: 7686179897812654989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Upper Waist_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e8acb24ca79590800000000000000
+      internalID: -7667470437941975930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
